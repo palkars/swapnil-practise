@@ -21,6 +21,24 @@
             <version>1.4.11</version>
         </dependency>
         <dependency>
+            <groupId>org.jgrapht</groupId>
+            <artifactId>jgrapht-core</artifactId>
+            <version>1.5.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.jgrapht/jgrapht-io -->
+        <dependency>
+            <groupId>org.jgrapht</groupId>
+            <artifactId>jgrapht-io</artifactId>
+            <version>1.5.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.jgrapht/jgrapht-ext -->
+        <dependency>
+            <groupId>org.jgrapht</groupId>
+            <artifactId>jgrapht-ext</artifactId>
+            <version>1.5.2</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.9.2</version>
